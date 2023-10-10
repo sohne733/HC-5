@@ -1,0 +1,37 @@
+*{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+body{
+	background: radial-gradient(circle, #feffdb, #ffe6e8);
+}
+h1{
+	font-family: 'Teko', sans-serif;
+	margin: 0;
+	text-align: center;
+	font-size: 100px;
+	color: #000;
+}
+
+p{
+	font-family: fantasy;
+	margin: 5%;
+	padding: 10%;
+	font-size: 20px;
+	letter-spacing: 2px;
+	font-family: monospace;
+	text-align: center;
+}
+img{
+	width: 4in;
+	height: 5in;
+	border-block: 10px solid #ffff;
+	border-left: 10px solid #fff;
+	border-right: 10px solid #fff;
+	position: relative;
+	left: 5.2in;
+
+
+}
